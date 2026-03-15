@@ -43,3 +43,4 @@ nagios.problems.servicegroups.mysql 1 1359170720
 
 Ledbetter is distributed under the MIT license.
 
+Created By Jason Scott Heise
